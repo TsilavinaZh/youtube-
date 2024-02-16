@@ -1,4 +1,4 @@
-# youtube_downloader
+# youtube
 
 Ce module charger des vidéos YouTube.
 
@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/votre-utilisateur/youtube_downloader"
+	"github.com/TsilavinaZh/youtube"
 )
 
 func main() {
