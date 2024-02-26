@@ -28,4 +28,6 @@ func main() {
 	}
 }
 ```
-Assurez-vous de remplacer YOUR_VIDEO_ID par l'ID de la vidéo YouTube que vous souhaitez télécharger.LicenseCe projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.Ce fichier README.md comprend toutes les informations nécessaires sur le module youtube_downloader, y compris l'installation, un exemple d'utilisation et des informations de licence.
+### Assurez-vous de remplacer YOUR_VIDEO_ID par l'ID de la vidéo YouTube que vous souhaitez télécharger.
+
+### LicenseCe projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.Ce fichier README.md comprend toutes les informations nécessaires sur le module youtube_downloader, y compris l'installation, un exemple d'utilisation et des informations de licence.
